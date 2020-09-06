@@ -1,0 +1,1 @@
+//this file contains the functions for the machine in javascript
